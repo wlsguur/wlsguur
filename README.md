@@ -12,6 +12,7 @@
     </a>
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlsguur)](https://github.com/bi-sz/velog-readme-stats)
 </div><br>
+
 ----
 ## 🔨 Once I've Used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -19,27 +20,25 @@
     <p><strong>DeepLearning</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-    </div>
+    </div><br>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    </div>
+    </div><br>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/php-777BB4?style=plastic&logo=php&logoColor=white"/>
-    </div>
+    </div><br>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
-    </div>
+    </div><br>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
