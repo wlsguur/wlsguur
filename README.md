@@ -5,12 +5,9 @@
 ----
 
 ## 💻 Tech log
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@wlsguur">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlsguur)](https://github.com/wlsguur/velog-readme-stats)
-</div><br>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlsguur)](https://github.com/wlsguur/velog-readme-stats)
+
 
 ----
 ## 🔨 Once I've Used
