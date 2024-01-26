@@ -34,7 +34,7 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/php-777BB4?style=for-the=badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     </div><br>
     <!-- Database -->
     <p><strong>Database</strong></p>
