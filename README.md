@@ -21,6 +21,8 @@
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+        <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=TenserFlow&logoColor=white">
+        <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=NumPy&logoColor=white">
     </div><br>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -32,7 +34,7 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/php-777BB4?style=plastic&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/php-777BB4?style=for-the=badge&logo=php&logoColor=white"/>
     </div><br>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -42,8 +44,8 @@
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+        <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+        <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=C++&logoColor=white">
     </div><br>
 </div>
 
