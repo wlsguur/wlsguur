@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=22&text=Welcome&section=header&reversal=false&textBg=false&fontAlign=50&fontAlignY=30&fontSize=60&desc=Jinhyeok%20Choi&descAlign=50&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=22&text=Welcome&section=header&reversal=false&textBg=false&fontAlign=50&fontAlignY=30&fontSize=60&desc=wlsguur's%20github%20profile&descAlign=50&descAlignY=50)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsguur&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsguur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
