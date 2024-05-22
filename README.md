@@ -13,9 +13,9 @@ Department of Computer Science and Engineering
 ## Research Experiences
 - Research Intern at Computer Vision Lab @ Korea University (Feb. 2024 - Present)
 - Research Intern at Vision & AI Lab @ Korea University (Oct. 2023 - Dec. 2023)
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsguur&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsguur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ----
 ## 🔨 Once I've Used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -54,6 +54,7 @@ Department of Computer Science and Engineering
 
 ----
 
+<!--
 ## 💻 Tech log
 
 <a href="https://velog.io/@wlsguur">
@@ -61,6 +62,7 @@ Department of Computer Science and Engineering
 </a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlsguur)](https://github.com/wlsguur/velog-readme-stats)
+-->
 
 
 <!--![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=22&section=footer&reversal=false&textBg=false&fontAlign=50&fontAlignY=30&fontSize=60&descAlign=50&descAlignY=50)-->
