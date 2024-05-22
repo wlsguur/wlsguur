@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=22&text=Welcome&section=header&reversal=false&textBg=false&fontAlign=50&fontAlignY=30&fontSize=60&desc=wlsguur's%20github%20profile&descAlign=50&descAlignY=50)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=22&text=Welcome&section=header&reversal=false&textBg=false&fontAlign=50&fontAlignY=30&fontSize=60&desc=wlsguur's%20github%20profile&descAlign=50&descAlignY=50)-->
 
 ##  Education
 Korea University, Korea (Mar. 2022 - Present)
@@ -63,4 +63,4 @@ Department of Computer Science and Engineering
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlsguur)](https://github.com/wlsguur/velog-readme-stats)
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=22&section=footer&reversal=false&textBg=false&fontAlign=50&fontAlignY=30&fontSize=60&descAlign=50&descAlignY=50)
+<!--![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=22&section=footer&reversal=false&textBg=false&fontAlign=50&fontAlignY=30&fontSize=60&descAlign=50&descAlignY=50)-->
