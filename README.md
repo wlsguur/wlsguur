@@ -5,14 +5,15 @@ Undergraduate Student @ Korea University, Korea (Mar. 2022 - Present)
 
 Department of Computer Science and Engineering
 
-## Research Interests
-- Computer Vision
-- Diffusion
-- Semi & Self-supervised Learning
-
 ## Research Experiences
-- Research Intern at Computer Vision Lab @ KAIST (Feb. 2024 - Present)
+- Research Intern at Computer Vision Lab (CVLAB) @ KAIST (Feb. 2024 - Present)
 - Research Intern at Vision & AI Lab @ Korea University (Oct. 2023 - Dec. 2023)
+  
+## Research Interests
+- Diffusion Models
+- Novel View Synthesis & 3D Generation
+- Video Generation
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsguur&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsguur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
